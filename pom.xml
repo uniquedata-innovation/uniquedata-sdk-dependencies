@@ -6,7 +6,7 @@
   <packaging>jar</packaging>
   
   <name>UniqueData SDK Dependencies</name>
-  <description>Biblioteca de dependências para UniqueData SDK</description>
+  <description>Dependency Library for UniqueData SDK</description>
   <url>https://github.com/uniquedata-innovation/uniquedata-sdk-dependencies</url>
   
   <licenses>
